@@ -1,0 +1,4 @@
+/home/parallels/my_cpp_project/CMakeFiles/calculator_lib.dir
+/home/parallels/my_cpp_project/CMakeFiles/main.dir
+/home/parallels/my_cpp_project/CMakeFiles/edit_cache.dir
+/home/parallels/my_cpp_project/CMakeFiles/rebuild_cache.dir
